@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1499972832 source:c:\users\raheem muiz olalekan\documents\c++\assignmentontemplates\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<stdlib.h>
+
